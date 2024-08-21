@@ -39,7 +39,7 @@ public class CartPage extends AbstractComponents {
 	{
 		checkoutEle.click();
 		return new CheckoutPage(driver);
-		// this is test comment for CICD
+	
 	}
 
 
