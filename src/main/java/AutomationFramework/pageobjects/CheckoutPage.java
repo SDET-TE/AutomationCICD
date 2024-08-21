@@ -18,6 +18,7 @@ import AutomationFramework.AbstractComponents.AbstractComponents;
 public class CheckoutPage extends AbstractComponents {
 
 	WebDriver driver;
+	// this is a test comment for CI/CD
 	
 	public CheckoutPage(WebDriver driver) {
 		super(driver);
